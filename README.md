@@ -37,7 +37,7 @@ Previously worked in assembly line and administration — I bring discipline, ad
 
 ## 🚀 Featured Project
 
-### [Community Help](https://github.com/Chuckytin/community-help-api) 🚧 In development
+### [Community Help](https://github.com/Chuckytin/community-help-pro) 🚧 In development
 
 A local solidarity platform that connects people who want to donate goods (food, clothing, medicine, furniture...) with those who need them, and lets users request help from nearby volunteers.
 
