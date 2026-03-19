@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Ángel — aka Chuckytin 👋
+# Hey, I'm Ángel — Chuckytin 👋
 
 *Backend Developer from Asturias, Spain 🇪🇸*
 
