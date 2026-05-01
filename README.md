@@ -13,7 +13,7 @@
 
 ## About me
 
-Backend developer specializing in Java and Spring Boot, focused on designing efficient and scalable systems. I have experience building REST APIs and complex business logic — including geolocated matching engines with real travel-time scoring, JWT + OAuth2 security, and WebSocket-based real-time chat.
+Backend developer specializing in Java and Spring Boot, focused on designing efficient and scalable systems. I have experience building REST APIs and complex business logic — including geolocated matching engines with real travel-time scoring, JWT + OAuth2 security, and WebSocket-based real-time chat. Currently learning DevOps fundamentals — containerizing applications with Docker, managing multi-environment deployments with Docker Compose and building reproducible local dev/prod workflows.
 
 I've worked with PostgreSQL (+ PostGIS) and Oracle, reducing response times through performance tuning and clean architectural decisions. I care about maintainable code that delivers real value, and I'm constantly pushing to stay sharp in a fast-moving industry.
 
@@ -28,6 +28,8 @@ Previously worked in assembly line, administration and international logistics �
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostGIS](https://img.shields.io/badge/PostGIS-008BB9?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Makefile](https://img.shields.io/badge/Makefile-064F8C?style=for-the-badge&logo=gnu&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2_Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket_STOMP-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
